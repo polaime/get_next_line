@@ -6,7 +6,7 @@
 /*   By: pthibaud <pthibaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/30 15:29:10 by pthibaud          #+#    #+#             */
-/*   Updated: 2025/01/09 17:18:45 by pthibaud         ###   ########.fr       */
+/*   Updated: 2025/01/17 14:50:05 by pthibaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,5 +28,6 @@ char	*get_next_line(int fd);
 int		bool_n(char *str);
 void	*ft_calloc(size_t num, size_t size);
 char	*ft_strrchr(const char *str, int c);
+
 
 #endif
