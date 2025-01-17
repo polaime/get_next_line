@@ -6,7 +6,7 @@
 /*   By: pthibaud <pthibaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/30 15:29:18 by pthibaud          #+#    #+#             */
-/*   Updated: 2025/01/09 17:21:48 by pthibaud         ###   ########.fr       */
+/*   Updated: 2025/01/17 14:50:43 by pthibaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	*ft_calloc(size_t num, size_t size)
 	size_t		i;
 
 	i = 0;
-	i--;
+	--i;
 	if (size != 0 && i / size < num)
 		return (NULL);
 	i = 0;
