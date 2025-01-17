@@ -6,7 +6,7 @@
 /*   By: pthibaud <pthibaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/09 15:58:20 by pthibaud          #+#    #+#             */
-/*   Updated: 2025/01/09 17:17:47 by pthibaud         ###   ########.fr       */
+/*   Updated: 2025/01/17 14:48:46 by pthibaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,7 +46,7 @@ static char	*get_line(const char *stash)
 	if (!stash[i])
 		return (NULL);
 	while (stash[i] && stash[i] != '\n')
-		++i;
+		i++;
 	return (ft_substr(stash, 0, i + (stash[i] == '\n')));
 }
 
