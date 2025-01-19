@@ -1,12 +1,15 @@
 /* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: pthibaud <pthibaud@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/11/30 15:29:18 by pthibaud          #+#    #+#             */
-/*   Updated: 2025/01/17 14:50:43 by pthibaud         ###   ########.fr       */
+/*                                                     ..,,;;;,'..            */
+/*                                                 .'cx0XNNWWWNXKOdl;.        */
+/*   get_next_line_utils.c                       .;xXWNKOkkOKNMMMMMMW0l.      */
+/*                                              ,xNMXd,.   .cONMMMMMMMK;      */
+/*   Par: polaime <pthibaud>                   .:0WMX:      :XMMNNMMMMM0,     */
+/*                                             :KMMMk.      .lxdckMMMMWd.     */
+/*   Cree: 2025/01/19 13:50:28                ,OMMMMK,          ,0MMMWO'      */
+/*   Ameliore: 2025/01/19 14:42:13           .oWMMMMW0c.      .c0WMMWk,       */
+/*                                           'OMMWXNWMWKkddodkKWMMWKo.        */
+/*                                           'OMWk,,lx0XWWMMMMMWXOo'.         */
+/*   https://github.com/polaime              .oKx'    .';:clllc;'.            */
 /*                                                                            */
 /* ************************************************************************** */
 
